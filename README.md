@@ -27,6 +27,7 @@ Forward loan applications to banks
 Send reports to specific users via email
 
 ⚙️ Key Functionalities
+
 ✅ Authentication
 Secure JWT-based login and signup for users and admins
 
